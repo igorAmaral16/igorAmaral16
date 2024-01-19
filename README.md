@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C#.
 - 💬 Ask me about Java, Spring Boot or SQL Server
 
-### Best Tecnologies
+### Best Technologies
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width = "60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width = "60" />  
