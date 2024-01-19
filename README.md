@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C#
 - 💬 Ask me about Java, Spring Boot or SQL Server
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width = "60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>   
