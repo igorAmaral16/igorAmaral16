@@ -28,9 +28,6 @@
   <a href="https://instragram.com/whtr_oo">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://tiktok.com/@hmmmm.m7">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/igorAmaral19">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
