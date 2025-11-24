@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning Node.js.
 - 💬 Ask me about Java, Spring Boot or SQL Server
 
 ### Best Technologies
